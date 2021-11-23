@@ -1,0 +1,19 @@
+.index-card{
+    display: flex;
+    /* height: 300px; */
+    
+}
+#shop{
+    background-color: #fff;
+    /* color: white; */
+    height: 110px;
+    margin: 2px 2px 3px 30px;
+}
+
+#buy-btn{
+    font-size: 13px;
+}
+#buy-1{
+    color: rgb(45, 218, 137);
+    font-size: 13px;
+}

@@ -1,0 +1,23 @@
+#heading{
+    color: rgba(24, 196, 110, 0.8);
+    /* font-family: 'Oswald', sans-serif; */
+    position: relative;
+    z-index: 1;
+    animation: move 20s infinite;
+    
+}
+.moving{
+    /* display: inline-block; */
+}
+
+@keyframes move {
+    0%{
+        left:650px;
+    }
+    
+        
+    
+    100%{
+        left:-1200px
+    }
+}
